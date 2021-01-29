@@ -11,14 +11,18 @@ making my life better, helping me in my daily work.
   - SASS(SCSS)
   - Bootstrap
 - JavaScript
-  - Node.js
-  - Express
-  - Gulp
-  - Vue.js
+  - Node.js  
+  - Express  
+  - Gulp  
+  - Vue.js  
 - Git
 - Database
-  - SQLite
-
+  - SQLite  
+ 
+Also used:
+- PHP  
+- Python  
+- Electron  
 
 > Programming languages are tools.  
 > Programming is the process of solving a problem.
