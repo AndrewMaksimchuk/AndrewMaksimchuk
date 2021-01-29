@@ -1,22 +1,24 @@
-### Hi there 👋
+A simple man with a simple life, but with an interesting hobby.  
+Programming is my hobby, that helps me in my daily life.   
+The programs I have created help me for everydays,   
+making my life better, helping me in my daily work.  
 
-<!--
-**AndrewMaksimchuk/AndrewMaksimchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My tools:
+- HTML
+  - Pug
+- CSS
+  - BEM
+  - SASS(SCSS)
+  - Bootstrap
+- JavaScript
+  - Node.js
+  - Express
+  - Gulp
+  - Vue.js
+- Git
+- Database
+  - SQLite
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Programming languages are tools.
-Programming is the process of solving a problem.
-
-If you believe that the world cannot be changed, 
-it only means that you are not one of those who will change it.
+> Programming languages are tools.  
+> Programming is the process of solving a problem.
