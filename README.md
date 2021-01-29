@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Programming languages are tools.
+Programming is the process of solving a problem.
+
+If you believe that the world cannot be changed, 
+it only means that you are not one of those who will change it.
