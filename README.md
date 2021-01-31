@@ -4,25 +4,28 @@ The programs I have created help me for everydays,
 making my life better, helping me in my daily work.  
 
 :hammer: My tools:
-- HTML
-  - Pug
-- CSS
-  - BEM
-  - SASS(SCSS)
-  - Bootstrap
-- JavaScript
-  - Node.js  
-  - Express  
-  - Gulp  
-  - Vue.js  
-- Git
+- <img src="/html5-original-wordmark.svg" width="15" title="HTML"> HTML    
+  - <img src="/pug.png" width="15" title="Pug"> Pug    
+- <img src="/css3-original-wordmark.svg" width="15" title="CSS"> CSS    
+  - <img src="/bem.ico" width="15" title="BEM"> BEM    
+  - <img src="/sass-original.svg" width="15" title="SASS(SCSS)"> SASS(SCSS)    
+  - <img src="/bootstrap.ico" width="15" title="Bootstrap"> Bootstrap    
+- <img src="/javascript.png" width="15" title="javascript"> JavaScript   
+  - <img src="/nodejs-original-wordmark.svg" width="15" title="Node.js"> Node.js    
+  - <img src="/express-original-wordmark.svg" width="15" title="Express"> Express    
+  - <img src="/gulp-plain.svg" width="15" title="Gulp"> Gulp    
+  - <img src="/vuejs-original-wordmark.svg" width="15" title="Vue.js"> Vue.js    
+- <img src="/git.png" width="15" title="Git">  Git 
 - Database
-  - SQLite  
+  - SQLite  <img src="/sqlite.ico" width="15" title="SQLite">  
  
 Also used:
-- PHP  
-- Python  
-- Electron  
+- <img src="/php.png" width="15" title="PHP">  PHP   
+- <img src="/python.png" width="15" title="Python">  Python    
+- <img src="/electron-original.svg" width="15" title="Electron">  Electron    
+
+Text editor:
+- <img src="/vscode.png" width="15" title="VSCode"> VSCode   
 
 > Programming languages are tools.  
 > Programming is the process of solving a problem.
