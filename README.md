@@ -17,7 +17,7 @@ making my life better, helping me in my daily work.
   - <img src="/vuejs-original-wordmark.svg" width="15" title="Vue.js"> Vue.js    
 - <img src="/git.png" width="15" title="Git">  Git 
 - Database
-  - SQLite  <img src="/sqlite.ico" width="15" title="SQLite">  
+  - <img src="/sqlite.ico" width="15" title="SQLite"> SQLite    
  
 Also used:
 - <img src="/php.png" width="15" title="PHP">  PHP   
