@@ -14,7 +14,8 @@ making my life better, helping me in my daily work.
   - <img src="/nodejs-original-wordmark.svg" width="15" title="Node.js"> Node.js    
   - <img src="/express-original-wordmark.svg" width="15" title="Express"> Express    
   - <img src="/gulp-plain.svg" width="15" title="Gulp"> Gulp    
-  - <img src="/vuejs-original-wordmark.svg" width="15" title="Vue.js"> Vue.js    
+  - <img src="/vuejs-original-wordmark.svg" width="15" title="Vue.js"> Vue.js  
+  - <img src="https://pptr.dev/favicons/apple-touch-icon.png" width="15" title="Puppeteer"> Puppeteer  
 - <img src="/git.png" width="15" title="Git">  Git 
 - Database
   - <img src="/sqlite.ico" width="15" title="SQLite"> SQLite    
