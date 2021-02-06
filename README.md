@@ -26,7 +26,10 @@ Also used:
 - <img src="/electron-original.svg" width="15" title="Electron">  Electron    
 
 Text editor:
-- <img src="/vscode.png" width="15" title="VSCode"> VSCode   
+- <img src="/vscode.png" width="15" title="VSCode"> VSCode  
+
+Books:
+- Грокаємо алгоритми
 
 > Programming languages are tools.  
 > Programming is the process of solving a problem.
