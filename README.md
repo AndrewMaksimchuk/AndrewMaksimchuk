@@ -33,3 +33,5 @@ Books:
 
 > Programming languages are tools.  
 > Programming is the process of solving a problem.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewMaksimchuk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
