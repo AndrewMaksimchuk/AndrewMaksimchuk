@@ -10,11 +10,13 @@ making my life better, helping me in my daily work.
   - <img src="/bem.ico" width="15" title="BEM"> BEM    
   - <img src="/sass-original.svg" width="15" title="SASS(SCSS)"> SASS(SCSS)    
   - <img src="/bootstrap.ico" width="15" title="Bootstrap"> Bootstrap    
+  - <img src="https://tailwindcss.com/favicon-32x32.png" width="15" title="Tailwindcss"> Tailwindcss   
 - <img src="/javascript.png" width="15" title="javascript"> JavaScript   
   - <img src="/nodejs-original-wordmark.svg" width="15" title="Node.js"> Node.js    
   - <img src="/express-original-wordmark.svg" width="15" title="Express"> Express    
   - <img src="/gulp-plain.svg" width="15" title="Gulp"> Gulp    
   - <img src="/vuejs-original-wordmark.svg" width="15" title="Vue.js"> Vue.js  
+  - <img src="https://ru.nuxtjs.org/favicon.ico" width="15" title="Nuxt.js"> Nuxt.js  
   - <img src="https://pptr.dev/favicons/apple-touch-icon.png" width="15" title="Puppeteer"> Puppeteer  
 - <img src="/git.png" width="15" title="Git">  Git 
 - Database
