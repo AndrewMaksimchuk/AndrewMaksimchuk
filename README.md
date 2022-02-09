@@ -36,4 +36,6 @@ Books:
 > Programming languages are tools.  
 > Programming is the process of solving a problem.
 
+https://www.codewars.com/users/Andrew%20Maksimchuk/badges/large
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewMaksimchuk&layout=compact&locale=uk-ua&hide_border=true&card_width=400&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
