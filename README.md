@@ -24,6 +24,7 @@ making my life better, helping me in my daily work.
   - <img src="/sqlite.ico" width="15" title="SQLite"> SQLite    
  
 Also used:
+- Shell  
 - <img src="/php.png" width="15" title="PHP">  PHP   
 - <img src="/python.png" width="15" title="Python">  Python    
 - <img src="/electron-original.svg" width="15" title="Electron">  Electron    
