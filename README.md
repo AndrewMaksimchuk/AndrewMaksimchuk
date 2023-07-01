@@ -3,7 +3,7 @@ Programming is my hobby, that helps me in my daily life.
 The programs I have created help me for everydays,   
 making my life better, helping me in my daily work.  
 
-:hammer: My tools:
+:hammer: Tools:
 - <img src="/html5-original-wordmark.svg" width="15" title="HTML"> HTML    
   - <img src="/pug.png" width="15" title="Pug"> Pug    
 - <img src="/css3-original-wordmark.svg" width="15" title="CSS"> CSS    
