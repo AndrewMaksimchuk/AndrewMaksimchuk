@@ -9,7 +9,6 @@ making my life better, helping me in my daily work.
 - <img src="/css3-original-wordmark.svg" width="15" title="CSS"> CSS 
   <img src="/bem.ico" width="15" title="BEM"> BEM
   <img src="/sass-original.svg" width="15" title="SASS(SCSS)"> SASS(SCSS)
-  <img src="/bootstrap.ico" width="15" title="Bootstrap"> Bootstrap
 - <img src="/javascript.png" width="15" title="javascript"> JavaScript 
   <img src="https://www.typescriptlang.org/favicon-32x32.png?v=8944a05a8b601855de116c8a56d3b3ae" width="15" title="typescript"> Typescript 
   <img src="/vuejs-original-wordmark.svg" width="15" title="Vue.js"> Vue 
